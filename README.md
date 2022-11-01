@@ -1,2 +1,2 @@
 # br34kband
- get ipad activation record with iphone 
+ activate iPhone as iPad by setting gestalt instance variables to coax albert into delivering an activation record
